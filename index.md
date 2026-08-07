@@ -737,6 +737,7 @@
 | bufo-lolsob.png | ![bufo-lolsob.png](all-the-bufo/bufo-lolsob.png) |
 | bufo-long.png | ![bufo-long.png](all-the-bufo/bufo-long.png) |
 | bufo-lookin-dope.png | ![bufo-lookin-dope.png](all-the-bufo/bufo-lookin-dope.png) |
+| bufo-looking-for-reviews.png | ![bufo-looking-for-reviews.png](all-the-bufo/bufo-looking-for-reviews.png) |
 | bufo-looking-very-much.gif | ![bufo-looking-very-much.gif](all-the-bufo/bufo-looking-very-much.gif) |
 | bufo-looks-a-little-closer.png | ![bufo-looks-a-little-closer.png](all-the-bufo/bufo-looks-a-little-closer.png) |
 | bufo-looks-for-a-pull-request.png | ![bufo-looks-for-a-pull-request.png](all-the-bufo/bufo-looks-for-a-pull-request.png) |
@@ -1230,6 +1231,7 @@
 | bufo-skellington-1.png | ![bufo-skellington-1.png](all-the-bufo/bufo-skellington-1.png) |
 | bufo-skellington.png | ![bufo-skellington.png](all-the-bufo/bufo-skellington.png) |
 | bufo-skiing.png | ![bufo-skiing.png](all-the-bufo/bufo-skiing.png) |
+| bufo-slaps-claude.png | ![bufo-slaps-claude.png](all-the-bufo/bufo-slaps-claude.png) |
 | bufo-slay.png | ![bufo-slay.png](all-the-bufo/bufo-slay.png) |
 | bufo-slaying-tho.png | ![bufo-slaying-tho.png](all-the-bufo/bufo-slaying-tho.png) |
 | bufo-sleep.png | ![bufo-sleep.png](all-the-bufo/bufo-sleep.png) |
